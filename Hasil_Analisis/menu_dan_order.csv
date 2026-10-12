@@ -1,0 +1,21 @@
+order_details_id,order_id,order_date,order_time,item_id,menu_item_id,item_name,category,price
+1,1,2023-01-01,11:38:36,109,109,"Korean Beef Bowl",Asian,17.95
+2,2,2023-01-01,11:57:40,108,108,"Tofu Pad Thai",Asian,14.50
+3,2,2023-01-01,11:57:40,124,124,Spaghetti,Italian,14.50
+4,2,2023-01-01,11:57:40,117,117,"Chicken Burrito",Mexican,12.95
+5,2,2023-01-01,11:57:40,129,129,"Mushroom Ravioli",Italian,15.50
+6,2,2023-01-01,11:57:40,106,106,"French Fries",American,7.00
+7,3,2023-01-01,12:12:28,117,117,"Chicken Burrito",Mexican,12.95
+8,3,2023-01-01,12:12:28,119,119,"Chicken Torta",Mexican,11.95
+9,4,2023-01-01,12:16:31,117,117,"Chicken Burrito",Mexican,12.95
+10,5,2023-01-01,12:21:30,117,117,"Chicken Burrito",Mexican,12.95
+11,6,2023-01-01,12:29:36,101,101,Hamburger,American,12.95
+12,6,2023-01-01,12:29:36,114,114,Potstickers,Asian,9.00
+13,7,2023-01-01,12:50:37,123,123,"Chips & Guacamole",Mexican,9.00
+14,8,2023-01-01,12:51:37,123,123,"Chips & Guacamole",Mexican,9.00
+15,9,2023-01-01,12:52:01,108,108,"Tofu Pad Thai",Asian,14.50
+16,9,2023-01-01,12:52:01,126,126,"Fettuccine Alfredo",Italian,14.50
+17,9,2023-01-01,12:52:01,110,110,"Pork Ramen",Asian,17.95
+18,9,2023-01-01,12:52:01,117,117,"Chicken Burrito",Mexican,12.95
+19,9,2023-01-01,12:52:01,117,117,"Chicken Burrito",Mexican,12.95
+20,9,2023-01-01,12:52:01,129,129,"Mushroom Ravioli",Italian,15.50
