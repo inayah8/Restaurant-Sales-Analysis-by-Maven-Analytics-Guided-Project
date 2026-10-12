@@ -1,5 +1,5 @@
 # Restaurant-Sales-Analysis-by-Maven-Analytics-Guided-Project
-Restaurant Sales Analysis by Maven Analytics Guided Project Menggunakan MySQL dan Excel
+Simulasi Proyek Restaurant Sales Analysis by Maven Analytics Guided Project Menggunakan MySQL dan Excel
 
 #### Tujuan
 1. Menu mana yang harus dipromosikan?
@@ -41,4 +41,8 @@ Section 4 — Time Analysis
 1. Jam berapa restoran paling sibuk?
 2. Hari apa yang paling ramai?
 
-#### Hasil Insight ada pada file **Insight.md** 
+#### Preview Analisis
+![Dashboard](Images/SS_MySQL.png)
+![Dashboard](Images/Dashboard_Maven.png)
+
+### Hasil Insight ada pada file **Insights.md** 
